@@ -1,0 +1,10 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.banaap.main",
+      "sha256_cert_fingerprints":
+      ["34:FA:42:75:C4:F3:D8:4F:BD:F1:7B:3D:4A:26:68:CD:FB:4B:9A:59:7E:FA:15:4C:3C:FE:D3:F4:4A:D8:93:FD"]
+    }
+  }]
+  
